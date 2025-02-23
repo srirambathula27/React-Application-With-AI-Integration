@@ -1,0 +1,401 @@
+s.no,message,label
+1,"Remember to submit your report by 5 PM today.",1
+2,"The meeting has been rescheduled to tomorrow.",1
+3,"Don't forget to buy milk on your way home.",0
+4,"The deadline for the project is next week.",1
+5,"Reminder: Your dentist appointment is at 10 AM tomorrow.",1
+6,"Enjoy your weekend!",0
+7,"Please respond to this email as soon as possible.",1
+8,"It's time to renew your subscription.",1
+9,"The movie starts in 30 minutes.",1
+10,"Let's catch up for coffee sometime this week.",0
+11,"Don't miss out on our limited-time offer.",1
+12,"Your package has been delivered.",0
+13,"Important: Review the attached document before the meeting.",1
+14,"The event starts at 7 PM tonight.",1
+15,"Happy birthday! Hope you have a fantastic day.",0
+16,"Please complete the survey by the end of the day.",1
+17,"Reminder: Tomorrow is the deadline for registration.",1
+18,"Don't forget to RSVP for the party.",1
+19,"The store closes in 15 minutes.",1
+20,"Wishing you a speedy recovery!",0
+21,"We're running low on office supplies.",1
+22,"The sale ends on Friday.",1
+23,"Enjoy your vacation!",0
+24,"Your reservation is confirmed.",0
+25,"We need your feedback on the new product design.",1
+26,"Don't forget to set your clocks forward tonight.",1
+27,"The report is due next month.",1
+28,"Happy holidays!",0
+29,"Your subscription expires next week.",1
+30,"It's time to renew your gym membership.",1
+31,"Reminder: Your flight is tomorrow at 9 AM.",1
+32,"The conference starts in 1 hour.",1
+33,"Don't miss the early bird discount.",1
+34,"Please review and approve the budget proposal.",1
+35,"The deadline for the scholarship application is approaching.",1
+36,"The store is closed for maintenance.",0
+37,"Enjoy your meal!",0
+38,"Please sign and return the contract by the end of the day.",1
+39,"Don't forget to water the plants.",0
+40,"The event has been postponed until further notice.",1
+41,"Congratulations on your promotion!",0
+42,"Reminder: Your car insurance expires next week.",1
+43,"The deadline for submitting your taxes is approaching.",1
+44,"Please arrive on time for the meeting.",1
+45,"Don't forget to pick up your dry cleaning.",1
+46,"The new semester starts next Monday.",1
+47,"We're hiring! Apply now.",1
+48,"Happy anniversary!",0
+49,"Don't miss the deadline for the scholarship application.",1
+50,"Enjoy the long weekend!",0
+51,"Please respond to the survey by the end of the day.",1
+52,"Reminder: Your dental check-up is tomorrow.",1
+53,"The deadline for the job application is tomorrow.",1
+54,"Don't forget to schedule your annual check-up.",1
+55,"Your prescription is ready for pickup.",0
+56,"The sale starts at midnight tonight.",1
+57,"Enjoy your day off!",0
+58,"Don't miss out on our limited-time promotion.",1
+59,"The meeting has been canceled.",1
+60,"Reminder: Your rent is due tomorrow.",1
+61,"The concert starts in 1 hour.",1
+62,"Happy Thanksgiving!",0
+63,"Don't forget to bring your umbrella.",1
+64,"The event is sold out.",1
+65,"Please update your contact information.",1
+66,"The deadline for the conference registration is today.",1
+67,"Don't forget to RSVP for the wedding.",1
+68,"The store will be closed for the holidays.",1
+69,"Enjoy the sunshine!",0
+70,"Please review the updated policy.",1
+71,"The deadline for submitting your proposal is tomorrow.",1
+72,"Don't miss the early bird registration deadline.",1
+73,"Your flight has been delayed.",1
+74,"Reminder: Your doctor's appointment is tomorrow.",1
+75,"The sale ends at midnight tonight.",1
+76,"Happy New Year!",0
+77,"Don't forget to update your password.",1
+78,"The deadline for the contest entry is tomorrow.",1
+79,"Please confirm your attendance for the event.",1
+80,"Enjoy your weekend getaway!",0
+81,"The store will be closed for inventory.",1
+82,"Don't forget to buy tickets for the movie premiere.",1
+83,"The workshop starts in 30 minutes.",1
+84,"Please submit your expense report by the end of the week.",1
+85,"Reminder: Your subscription renewal is due.",1
+86,"The deadline for the scholarship application is tomorrow.",1
+87,"Don't miss the flash sale!",1
+88,"Your payment is overdue.",1
+89,"Enjoy the fireworks!",0
+90,"Please review the updated terms and conditions.",1
+91,"The store is closed for the holiday weekend.",1
+92,"Don't forget to pack your sunscreen.",1
+93,"The seminar starts at 9 AM tomorrow.",1
+94,"Happy Valentine's Day!",0
+95,"Please complete the online training by the end of the month.",1
+96,"The deadline for the project submission is next Friday.",1
+97,"Don't miss the deadline for the job application.",1
+98,"Your subscription has expired.",1
+99,"Enjoy your summer vacation!",0
+100,"Please RSVP for the company picnic.",1
+101,"Don't forget to turn in your homework.",1
+102,"Enjoy your evening!",0
+103,"The deadline for the competition entry is approaching.",1
+104,"Please review the agenda for tomorrow's meeting.",1
+105,"The store will be closed for renovations.",1
+106,"Don't miss the early registration discount.",1
+107,"Your subscription will auto-renew next month.",1
+108,"Happy Mother's Day!",0
+109,"Please respond to the survey by the end of the week.",1
+110,"The conference call starts in 10 minutes.",1
+111,"Reminder: Your dentist appointment is next Tuesday.",1
+112,"The sale ends tomorrow.",1
+113,"Don't forget to turn off the lights before leaving.",0
+114,"Your payment has been processed.",0
+115,"Enjoy your lunch break!",0
+116,"Please sign up for the workshop by Friday.",1
+117,"The deadline for the scholarship application is next month.",1
+118,"Happy Father's Day!",0
+119,"Please update your profile information.",1
+120,"The store opens at 9 AM tomorrow.",1
+121,"Don't forget to bring your ID to the event.",1
+122,"Enjoy your day!",0
+123,"Please review and approve the marketing proposal.",1
+124,"The deadline for the project submission is approaching.",1
+125,"Your account balance is low.",1
+126,"Happy Halloween!",0
+127,"Don't miss out on our special promotion.",1
+128,"Please RSVP for the company dinner.",1
+129,"The deadline for the job application is next week.",1
+130,"Your subscription will expire soon.",1
+131,"Enjoy your weekend!",0
+132,"Please submit your feedback by the end of the day.",1
+133,"The concert has been postponed.",1
+134,"The store will be closed for the holiday.",1
+135,"Don't forget to register for the webinar.",1
+136,"Reminder: Your car registration expires next month.",1
+137,"The meeting location has changed.",1
+138,"Please review the new policy updates.",1
+139,"The deadline for the contest entry is next Friday.",1
+140,"Your order has been shipped.",0
+141,"Happy Independence Day!",0
+142,"Don't miss the early bird registration deadline.",1
+143,"Enjoy your vacation!",0
+144,"Please update your contact information.",1
+145,"The store closes in 30 minutes.",1
+146,"Reminder: Your rent is due next week.",1
+147,"The event starts at 6 PM tonight.",1
+148,"Don't forget to wish your friend a happy birthday!",0
+149,"The sale starts tomorrow.",1
+150,"Please confirm your attendance for the conference.",1
+151,"Your prescription is ready for pickup.",0
+152,"Enjoy your day off!",0
+153,"Please review and sign the contract.",1
+154,"The deadline for the scholarship application is approaching.",1
+155,"Don't forget to water the plants.",0
+156,"The conference will be held virtually.",1
+157,"Please respond to the email by the end of the day.",1
+158,"The event has been canceled.",1
+159,"Don't miss the flash sale!",1
+160,"Your appointment has been rescheduled.",1
+161,"Happy Thanksgiving!",0
+162,"The store will be closed for inventory.",1
+163,"Don't forget to pack your umbrella.",1
+164,"Enjoy the fireworks!",0
+165,"Please complete the online training by the end of the month.",1
+166,"The seminar starts at 9 AM tomorrow.",1
+167,"Happy Valentine's Day!",0
+168,"Don't miss the deadline for the job application.",1
+169,"The sale ends at midnight tonight.",1
+170,"Please review the updated terms and conditions.",1
+171,"The store is closed for the holiday weekend.",1
+172,"Don't forget to buy tickets for the movie premiere.",1
+173,"The workshop starts in 30 minutes.",1
+174,"Please submit your expense report by the end of the week.",1
+175,"Reminder: Your subscription renewal is due.",1
+176,"The deadline for the scholarship application is tomorrow.",1
+177,"Your payment is overdue.",1
+178,"Enjoy your summer vacation!",0
+179,"Please RSVP for the company picnic.",1
+180,"Don't forget to turn off the oven.",0
+181,"The deadline for the competition entry is next week.",1
+182,"Happy Labor Day!",0
+183,"Please review the agenda for next week's meeting.",1
+184,"The store will be closed for the holiday.",1
+185,"Don't miss the early registration discount.",1
+186,"Your subscription will auto-renew next month.",1
+187,"Please respond to the survey by the end of the week.",1
+188,"Reminder: Your dentist appointment is next Tuesday.",1
+189,"The sale ends tomorrow.",1
+190,"Enjoy your lunch break!",0
+191,"Please sign up for the workshop by Friday.",1
+192,"The deadline for the scholarship application is next month.",1
+193,"Don't forget to bring your ID to the event.",1
+194,"Enjoy your day!",0
+195,"Please review and approve the marketing proposal.",1
+196,"The deadline for the project submission is approaching.",1
+197,"Your account balance is low.",1
+198,"Please update your profile information.",1
+199,"The store opens at 9 AM tomorrow.",1
+200,"Don't forget to register for the webinar.",1
+201,"The meeting location has changed.",1
+202,"Please review the new policy updates.",1
+203,"The deadline for the contest entry is next Friday.",1
+204,"Your order has been shipped.",0
+205,"Happy Independence Day!",0
+206,"Don't miss the early bird registration deadline.",1
+207,"Enjoy your vacation!",0
+208,"Please update your contact information.",1
+209,"The store closes in 30 minutes.",1
+210,"Reminder: Your rent is due next week.",1
+211,"The event starts at 6 PM tonight.",1
+212,"Don't forget to wish your friend a happy birthday!",0
+213,"The sale starts tomorrow.",1
+214,"Please confirm your attendance for the conference.",1
+215,"Your prescription is ready for pickup.",0
+216,"Enjoy your day off!",0
+217,"Please review and sign the contract.",1
+218,"The deadline for the scholarship application is approaching.",1
+219,"Don't forget to water the plants.",0
+220,"The conference will be held virtually.",1
+221,"Please respond to the email by the end of the day.",1
+222,"The event has been canceled.",1
+223,"Don't miss the flash sale!",1
+224,"Your appointment has been rescheduled.",1
+225,"Happy Thanksgiving!",0
+226,"The store will be closed for inventory.",1
+227,"Don't forget to pack your umbrella.",1
+228,"Enjoy the fireworks!",0
+229,"Please complete the online training by the end of the month.",1
+230,"The seminar starts at 9 AM tomorrow.",1
+231,"Happy Valentine's Day!",0
+232,"Don't miss the deadline for the job application.",1
+233,"The sale ends at midnight tonight.",1
+234,"Please review the updated terms and conditions.",1
+235,"The store is closed for the holiday weekend.",1
+236,"Don't forget to buy tickets for the movie premiere.",1
+237,"The workshop starts in 30 minutes.",1
+238,"Please submit your expense report by the end of the week.",1
+239,"Reminder: Your subscription renewal is due.",1
+240,"The deadline for the scholarship application is tomorrow.",1
+241,"Your payment is overdue.",1
+242,"Enjoy your summer vacation!",0
+243,"Please RSVP for the company picnic.",1
+244,"Don't forget to turn off the oven.",0
+245,"The deadline for the competition entry is next week.",1
+246,"Happy Labor Day!",0
+247,"Please review the agenda for next week's meeting.",1
+248,"The store will be closed for the holiday.",1
+249,"Don't miss the early registration discount.",1
+250,"Your subscription will auto-renew next month.",1
+251,"Please respond to the survey by the end of the week.",1
+252,"Reminder: Your dentist appointment is next Tuesday.",1
+253,"The sale ends tomorrow.",1
+254,"Enjoy your lunch break!",0
+255,"Please sign up for the workshop by Friday.",1
+256,"The deadline for the scholarship application is next month.",1
+257,"Don't forget to bring your ID to the event.",1
+258,"Enjoy your day!",0
+259,"Please review and approve the marketing proposal.",1
+260,"The deadline for the project submission is approaching.",1
+261,"Your account balance is low.",1
+262,"Please update your profile information.",1
+263,"The store opens at 9 AM tomorrow.",1
+264,"Don't forget to register for the webinar.",1
+265,"The meeting location has changed.",1
+266,"Please review the new policy updates.",1
+267,"The deadline for the contest entry is next Friday.",1
+268,"Your order has been shipped.",0
+269,"Happy Independence Day!",0
+270,"Don't miss the early bird registration deadline.",1
+271,"Enjoy your vacation!",0
+272,"Please update your contact information.",1
+273,"The store closes in 30 minutes.",1
+274,"Reminder: Your rent is due next week.",1
+275,"The event starts at 6 PM tonight.",1
+276,"Don't forget to wish your friend a happy birthday!",0
+277,"The sale starts tomorrow.",1
+278,"Please confirm your attendance for the conference.",1
+279,"Your prescription is ready for pickup.",0
+280,"Enjoy your day off!",0
+281,"Please review and sign the contract.",1
+282,"The deadline for the scholarship application is approaching.",1
+283,"Don't forget to water the plants.",0
+284,"The conference will be held virtually.",1
+285,"Please respond to the email by the end of the day.",1
+286,"The event has been canceled.",1
+287,"Don't miss the flash sale!",1
+288,"Your appointment has been rescheduled.",1
+289,"Happy Thanksgiving!",0
+290,"The store will be closed for inventory.",1
+291,"Don't forget to pack your umbrella.",1
+292,"Enjoy the fireworks!",0
+293,"Please complete the online training by the end of the month.",1
+294,"The seminar starts at 9 AM tomorrow.",1
+295,"Happy Valentine's Day!",0
+296,"Don't miss the deadline for the job application.",1
+297,"The sale ends at midnight tonight.",1
+298,"Please review the updated terms and conditions.",1
+299,"The store is closed for the holiday weekend.",1
+300,"Don't forget to buy tickets for the movie premiere.",1
+301,"The workshop starts in 30 minutes.",1
+302,"Please submit your expense report by the end of the week.",1
+303,"Reminder: Your subscription renewal is due.",1
+304,"The deadline for the scholarship application is tomorrow.",1
+305,"Your payment is overdue.",1
+306,"Enjoy your summer vacation!",0
+307,"Please RSVP for the company picnic.",1
+308,"Don't forget to turn off the oven.",0
+309,"The deadline for the competition entry is next week.",1
+310,"Happy Labor Day!",0
+311,"Please review the agenda for next week's meeting.",1
+312,"The store will be closed for the holiday.",1
+313,"Don't miss the early registration discount.",1
+314,"Your subscription will auto-renew next month.",1
+315,"Please respond to the survey by the end of the week.",1
+316,"Reminder: Your dentist appointment is next Tuesday.",1
+317,"The sale ends tomorrow.",1
+318,"Enjoy your lunch break!",0
+319,"Please sign up for the workshop by Friday.",1
+320,"The deadline for the scholarship application is next month.",1
+321,"Don't forget to bring your ID to the event.",1
+322,"Enjoy your day!",0
+323,"Please review and approve the marketing proposal.",1
+324,"The deadline for the project submission is approaching.",1
+325,"Your account balance is low.",1
+326,"Please update your profile information.",1
+327,"The store opens at 9 AM tomorrow.",1
+328,"Don't forget to register for the webinar.",1
+329,"The meeting location has changed.",1
+330,"Please review the new policy updates.",1
+331,"The deadline for the contest entry is next Friday.",1
+332,"Your order has been shipped.",0
+333,"Happy Independence Day!",0
+334,"Don't miss the early bird registration deadline.",1
+335,"Enjoy your vacation!",0
+336,"Please update your contact information.",1
+337,"The store closes in 30 minutes.",1
+338,"Reminder: Your rent is due next week.",1
+339,"The event starts at 6 PM tonight.",1
+340,"Don't forget to wish your friend a happy birthday!",0
+341,"The sale starts tomorrow.",1
+342,"Please confirm your attendance for the conference.",1
+343,"Your prescription is ready for pickup.",0
+344,"Enjoy your day off!",0
+345,"Please review and sign the contract.",1
+346,"The deadline for the scholarship application is approaching.",1
+347,"Don't forget to water the plants.",0
+348,"The conference will be held virtually.",1
+349,"Please respond to the email by the end of the day.",1
+350,"The event has been canceled.",1
+351,"Don't miss the flash sale!",1
+352,"Your appointment has been rescheduled.",1
+353,"Happy Thanksgiving!",0
+354,"The store will be closed for inventory.",1
+355,"Don't forget to pack your umbrella.",1
+356,"Enjoy the fireworks!",0
+357,"Please complete the online training by the end of the month.",1
+358,"The seminar starts at 9 AM tomorrow.",1
+359,"Happy Valentine's Day!",0
+360,"Don't miss the deadline for the job application.",1
+361,"The sale ends at midnight tonight.",1
+362,"Please review the updated terms and conditions.",1
+363,"The store is closed for the holiday weekend.",1
+364,"Don't forget to buy tickets for the movie premiere.",1
+365,"The workshop starts in 30 minutes.",1
+366,"Please submit your expense report by the end of the week.",1
+367,"Reminder: Your subscription renewal is due.",1
+368,"The deadline for the scholarship application is tomorrow.",1
+369,"Your payment is overdue.",1
+370,"Enjoy your summer vacation!",0
+371,"Please RSVP for the company picnic.",1
+372,"Don't forget to turn off the oven.",0
+373,"The deadline for the competition entry is next week.",1
+374,"Happy Labor Day!",0
+375,"Please review the agenda for next week's meeting.",1
+376,"The store will be closed for the holiday.",1
+377,"Don't miss the early registration discount.",1
+378,"Your subscription will auto-renew next month.",1
+379,"Please respond to the survey by the end of the week.",1
+380,"Reminder: Your dentist appointment is next Tuesday.",1
+381,"The sale ends tomorrow.",1
+382,"Enjoy your lunch break!",0
+383,"Please sign up for the workshop by Friday.",1
+384,"The deadline for the scholarship application is next month.",1
+385,"Don't forget to bring your ID to the event.",1
+386,"Enjoy your day!",0
+387,"Please review and approve the marketing proposal.",1
+388,"The deadline for the project submission is approaching.",1
+389,"Your account balance is low.",1
+390,"Please update your profile information.",1
+391,"The store opens at 9 AM tomorrow.",1
+392,"Don't forget to register for the webinar.",1
+393,"The meeting location has changed.",1
+394,"Please review the new policy updates.",1
+395,"The deadline for the contest entry is next Friday.",1
+396,"Your order has been shipped.",0
+397,"Happy Independence Day!",0
+398,"Don't miss the early bird registration deadline.",1
+399,"Enjoy your vacation!",0
+400,"Please update your contact information.",1
